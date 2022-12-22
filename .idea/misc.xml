@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/activity_dados.xml" value="0.4" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/activity_input.xml" value="0.536" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/activity_login.xml" value="0.20697463768115942" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/activity_obra.xml" value="0.22239583333333332" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/activity_ranking.xml" value="0.18854166666666666" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/dialog_listas.xml" value="0.22239583333333332" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/layout_dados.xml" value="0.536" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/layout_itemnotapre.xml" value="0.22239583333333332" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/layout_listas.xml" value="0.18854166666666666" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/layout_obra.xml" value="0.22239583333333332" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/layout_ranking.xml" value="0.18854166666666666" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/layout_spinner.xml" value="0.18854166666666666" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/layout/treeview.xml" value="0.18854166666666666" />
+        <entry key="..\:/__Projetos Android Studio/DadosApp/app/src/main/res/menu/menu_cp.xml" value="0.32083333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

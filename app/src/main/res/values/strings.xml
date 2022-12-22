@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Meu próximo App</string>
+    <string name="empty_string"></string>
+    <string name="btnUploadToServer">Upload to Server</string>
+
+    <string-array name="comentario_array">
+        <item>Comentario</item>
+        <item>Pendencia</item>
+    </string-array>
+
+    <string-array name="status_array2">
+        <item>Todos Status</item>
+        <item>Sem Foran</item>
+        <item>Qtde Diferente Foran</item>
+    </string-array>
+
+    <string-array name="status_array">
+        <item>Pendente</item>
+        <item>Em Execução</item>
+        <item>Finalizado</item>
+    </string-array>
+
+    <string-array name="status_executando_array">
+        <item>Em Execução</item>
+        <item>Finalizado</item>
+    </string-array>
+
+    <string-array name="status_finalizado_array">
+        <item>Finalizado</item>
+    </string-array>
+
+    <string-array name="semana_array">
+        <item>Todas as Semanas</item>
+        <item>Semana Retrasada</item>
+        <item>Semana Passada</item>
+        <item>Semana Atual</item>
+        <item>Semana Que Vem</item>
+        <item>Daqui a 2 Semanas</item>
+        <item>Outra Semana</item>
+    </string-array>
+
+    <string-array name="pendentes_array">
+        <item>Todos</item>
+        <item>Com Pendência</item>
+        <item>Sem Pendência</item>
+    </string-array>
+
+    <string-array name="tipopendencia_array">
+        <item>S-Sem Definição</item>
+        <item>P-Projeto</item>
+        <item>M-Material</item>
+        <item>A-Projeto e Material</item>
+        <item>E-Execução</item>
+    </string-array>
+
+    <string-array name="ordem_array">
+        <item>por Programação</item>
+        <item>por Peso</item>
+        <item>Alfabética</item>
+    </string-array>
+
+    <string-array name="galvanizacao_array">
+        <item>Galvanização</item>
+        <item>Só Galvanizados</item>
+        <item>Pendente Galvanizar</item>
+    </string-array>
+
+</resources>
